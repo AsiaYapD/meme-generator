@@ -3,7 +3,7 @@ import React from "react"
 export default function Meme () {
     return (
         <main>
-            <form>
+            <form className="form">
                 <input
                     type="form"
                     placeholder="top text"
