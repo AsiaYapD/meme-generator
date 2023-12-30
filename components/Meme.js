@@ -22,7 +22,7 @@ export default function Meme() {
                     />
                 </div>
                 <div>
-                    <label className="form--label">Top text</label>
+                    <label className="form--label">Bottom text</label>
                     <input
                         type="form"
                         placeholder="bottom text"
